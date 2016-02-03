@@ -1,6 +1,6 @@
 <?php
      $msg = "hello";
-     echo "<h1>{msg}";
+     echo "<h1>{$msg}</h1>";
      
      
 ?>
